@@ -6,7 +6,7 @@ Node-red csomagok amik nélkül nem működik:
  - node-red-dashboard 
  - node-red-contrib-modbus
  
-Flows.json importálása (2 flow van benne)
+flows.json importálása (asszem 2 flow van benne)
 Deploy
 Ennyi 
 
