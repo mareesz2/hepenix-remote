@@ -54,7 +54,7 @@ MH2[Modbus handle] --> SOP(Stop operation) --> MW(Motor write) --> SSOP(Start th
 5. "Manuális mozgás" gomb
 
 ### STOP gomb mindent megállít, TRACK-et kikapcsolja
-ALARM RESET ha [0, 103] az alarm kód (rs485 communication error)
+ALARM RESET ha [0, 132] az alarm kód (rs485 communication error)
 
 ## Szervíz
 
