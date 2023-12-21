@@ -38,7 +38,7 @@ MH2[Modbus handle] --> SOP(Stop operation) --> MW(Motor write) --> SSOP(Start th
 
  #### Ha a node-red nem futna, parancssorba:
  >node-red start
-#### Gpredist/satdump esetén
+#### Gpredict/satdump esetén
  1. Control mode választás (satdump esetében gpredict)
  2. Kalibráció be
  3. TRACK be
