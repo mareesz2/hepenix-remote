@@ -5,10 +5,12 @@ Rotator control for the hepenix remote on top of Széchenyi University
 Node-red csomagok amik nélkül nem működik:
  - node-red-dashboard 
  - node-red-contrib-modbus
- 
-flows.json importálása (asszem 2 flow van benne)
-Deploy
-Ennyi 
+
+Install:
+- flows.json importálása (asszem 2 flow van benne)
+- Modbus server választás/config
+- Deploy
+- Ennyi 
 
 # Operation theory
 ### Hardver mi honnan hova
