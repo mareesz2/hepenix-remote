@@ -14,6 +14,7 @@ Ennyi
 ### Hardver mi honnan hova
 ```mermaid
 graph
+GPR(Gpredict/Satdump) --> |TCP| NR
 NR[Node-red] --> |MODBUS-TCP| CONV(TCP - RS485 átalakító)
 CONV --> |MODBUS-RTU 115200 17/18| MVEZ(Motorvezérlő)
 MVEZ --> |Feedback| CONV --> |Feedback| NR
