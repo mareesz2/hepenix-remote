@@ -38,6 +38,7 @@ MH2[Modbus handle] --> SOP(Stop operation) --> MW(Motor write) --> SSOP(Start th
  - Ha nem tudod hogy kell használni, inkább kérj segítséget
  - Ha mégse ezt tennéd, két szoftver limit és egy hardver limit van a rendszerben, hogy ne lehessen összetörni
  - Mozgás sebesség kb a negyedén van, lehet emelni rajta ha szükséges, de nem ajánlott
+ - LAG CORRECTION funkciót csak akkor használd, ha a forgató éppen egy műholdat követ, különben összeakad a pozícióra állás
 
  #### Ha a node-red nem futna, parancssorba:
  >node-red start
